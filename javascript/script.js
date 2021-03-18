@@ -20,4 +20,4 @@ var color = prompt('Colore preferito?');
 console.log(color);
 console.log( typeof(color));
 
-document.getElementById('colore').innerHTML = 'La password generata è ' + name + surname + color + 22;
+document.getElementById('colore').innerHTML = 'La password generata è ' + name + surname + color + 21;
