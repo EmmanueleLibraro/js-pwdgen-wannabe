@@ -1,0 +1,1 @@
+var name = prompt('Come ti chiami?')
