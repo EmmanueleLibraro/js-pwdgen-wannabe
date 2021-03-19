@@ -19,13 +19,11 @@ body{
     color: #fff;
     border-radius: 5px;
     background-image: url(https://media.giphy.com/media/iKlVVfabgroEE/giphy.gif);
-    background-size: cover;
     background-repeat: no-repeat;
 }
 
 #colore{
     color: #fff;
-    background: rgb(0,0,0);
     background: linear-gradient(25deg, rgba(0,0,0,1) 0%, rgba(22,121,9,1) 58%);
     border-radius: 5px;
     width: 100%;
